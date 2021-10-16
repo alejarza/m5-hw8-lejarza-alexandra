@@ -21,12 +21,8 @@ h1 {
   font-size: 60px;
 }
 
-p {
+p, .score {
   color: #6003c3;
-}
-
-h1, 
-p {
   text-align: center;
 }
 
